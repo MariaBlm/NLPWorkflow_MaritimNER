@@ -1,5 +1,5 @@
 # NLPWorkflow_MaritimNER
-This notebook help you to : 
+This notebook helps you to : 
 
 🧠 Understand the NLP Workflow
 
